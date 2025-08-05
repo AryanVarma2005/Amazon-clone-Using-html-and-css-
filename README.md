@@ -27,4 +27,4 @@ This is a basic Amazon Clone website built using **HTML**, **CSS**
 - Make it fully responsive
 
 ## 🧑‍💻 Author
-- Your Name Here
+- Aryan Varma
