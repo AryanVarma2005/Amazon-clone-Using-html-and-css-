@@ -1,6 +1,6 @@
 # Amazon Clone 🛒
 
-This is a basic Amazon Clone website built using **HTML**, **CSS**, and optionally **JavaScript**.
+This is a basic Amazon Clone website built using **HTML**, **CSS**
 
 ## 📁 Project Structure
 - `index.html` - Main page of the Amazon clone
