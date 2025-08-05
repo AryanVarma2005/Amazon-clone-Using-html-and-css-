@@ -19,7 +19,8 @@ This is a basic Amazon Clone website built using **HTML**, **CSS**
 2. Open `index.html` in your browser.
 
 ## 📸 Screenshot
-(You can insert a screenshot here using `![screenshot](images/screenshot.png)`)
+<img width="1914" height="987" alt="image" src="https://github.com/user-attachments/assets/242980dd-56a6-4469-89cf-8c0c924c728e" />
+
 
 ## 📌 Future Enhancements
 - Add product pages
